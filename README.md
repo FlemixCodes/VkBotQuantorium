@@ -1,4 +1,4 @@
 # VkBotQuantorium
 Пример Бота ВК
 
-Сделано для @IFearless
+Сделано для https://github.com/IFearless
